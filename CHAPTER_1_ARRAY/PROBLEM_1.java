@@ -1,4 +1,4 @@
-package DSA.CHAPTER_1_ARRAY;
+package DSA.CHAPTER_1_ARRAY.CHAPTER_1_ARRAY;
 import java.util.*;
 public class PROBLEM_1 {
 

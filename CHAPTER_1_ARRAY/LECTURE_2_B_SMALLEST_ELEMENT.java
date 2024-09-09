@@ -1,5 +1,4 @@
 package DSA.CHAPTER_1_ARRAY;
-
 public class LECTURE_2_B_SMALLEST_ELEMENT {
     public static int smallestElement(int[]arr){
         int smallE=arr[0];
